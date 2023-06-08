@@ -1,0 +1,2 @@
+ggsashimi.py -b input_bams.tsv -c chr9:32551144-32553007 -g /groups/dog/nanopore/lncrna_resist_cgo/secondary/1_annexa/results/final/extended_annotations.full.gtf -C 1 -O 1 --shrink --fix-y-scale --alpha 0.25 --base-size=20 --ann-height=4 --height=3 --width=18 -o sashimi3 -F png
+ggsashimi.py -b input_bams.tsv -c chr9:32551144-32553007 -g /groups/dog/nanopore/lncrna_resist_cgo/secondary/1_annexa/results/final/extended_annotations.full.gtf -C 4 -O 4 --shrink --fix-y-scale --alpha 0.25 --base-size=20 --ann-height=4 --height=3 --width=18 -o sashimi4 -F png
